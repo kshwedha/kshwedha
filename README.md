@@ -1,6 +1,5 @@
-##  <div align="center">..............................»»»»»» maath ««««««.............................</span>
-#  ![]("./asset/light_static_.png")
-#  ![]("./asset/tectonic.gif")
+##  <div align="center">..............................»»»»»» greetings!! ««««««.............................</span>
+#  ![](./asset/light_static_.png)
 
 <span align="center">
   
