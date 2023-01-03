@@ -1,5 +1,13 @@
 ##  <div align="center">..................................»»»»»» maath ««««««.................................</span>
-#  ![](./asset/blue_matrix.png)
+<!-- #  ![](./asset/blue_matrix.png) -->
+
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Oleo+Script&color=4AB197&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there,;I'm+maath)](https://git.io/typing-svg)
+-->
+<span align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=4AB197&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80hi+you%2C;%E3%80%80%E3%80%80maath+welcomes+you+here.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+</span>
 
 <span align="center">
   
@@ -56,13 +64,15 @@
 
 <br>
 
-<a href="https://github.com/kshwedha">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshwedha&hide=html,css&title_color=4da890&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/kshwedha">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kshwedha&show_icons=true&line_height=40&count_private=true&title_color=4da890&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="kshwedha's GitHub Stats" />
-</a>
+<span align="center">
+  
+  <a href="https://github.com/kshwedha">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshwedha&hide=html,css&title_color=4da890&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  </a>
+  <a href="https://github.com/kshwedha">
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kshwedha&show_icons=true&line_height=40&count_private=true&title_color=4da890&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="kshwedha's GitHub Stats" />
+  </a>
+</span>
 
 <br>
 <br>
