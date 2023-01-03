@@ -57,11 +57,11 @@
 <br>
 
 <a href="https://github.com/kshwedha">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshwedha&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshwedha&hide=html,css&title_color=4da890&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/kshwedha">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kshwedha&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="kshwedha's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=kshwedha&show_icons=true&line_height=40&count_private=true&title_color=4da890&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="kshwedha's GitHub Stats" />
 </a>
 
 <br>
