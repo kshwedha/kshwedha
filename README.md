@@ -16,7 +16,7 @@
     </em></i></span>
 </div>
 
-#### SKILLS
+###### SKILLS
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/OS-Kali-informational?style=flat&logo=KaliLinux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=Fedora&logoColor=white&color=4AB197)
