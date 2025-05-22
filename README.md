@@ -6,7 +6,7 @@
 -->
 <span align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=4AB197&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80hi+you%2C;%E3%80%80%E3%80%80maath+welcomes+you+here.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=4AB197&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80hey+there%2C;%E3%80%80%E3%80%80maath+welcomes+you+here.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 </span>
 
 <span align="center">
@@ -20,7 +20,7 @@
 
 <div>
   <span><i><em>
-    &nbsp;&nbsp;&nbsp;&nbsp;Full-stack application developer, stretching out the experience in developing function perfect backend development and the solid database solution architecture.
+    &nbsp;&nbsp;&nbsp;&nbsp; Full-stack application developer, stretching out the experience in developing function perfect backend development and the solid database solution architecture.
     </em></i></span>
 </div>
 
